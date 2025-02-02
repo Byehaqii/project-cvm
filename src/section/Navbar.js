@@ -6,9 +6,11 @@ import React from "react";
 const dataNavbar = [
   {
     title: "Home",
+    page: "home",
   },
   {
     title: "About",
+    page: "about",
   },
   {
     title: "Promotions",
@@ -17,9 +19,11 @@ const dataNavbar = [
   },
   {
     title: "Blogs",
+    page: "blogs",
   },
   {
     title: "Contact Us",
+    page: "contact us",
   },
 ];
 
@@ -76,4 +80,3 @@ const Navbar = () => {
 };
 
 export default Navbar;
-

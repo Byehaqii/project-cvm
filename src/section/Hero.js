@@ -20,7 +20,7 @@ function HeroBanner() {
               onClick={() => alert("click daftar sekaranng")}
               className="bg-primary px-[18px] py-[10px] rounded-full text-white cursor-pointer "
             >
-              Daftar sekarang
+              Daftar Sekarang
             </button>
             <button
               onClick={() => alert("click daftar sekaranng")}
